@@ -12,8 +12,8 @@
   "dependencies": {
     "@justalk/pornhub-api": "^3.4.0",
     "@open-wa/wa-automate": "^3.5.0",
-    "@open-wa/wa-decrypt": "^2.0.1",
-    "axios": "^0.21.1",
+    "@open-wa/wa-decrypt": "^3.0.1",
+    "axios": "^0.21.0",
     "bent": "^7.3.10",
     "brainly-scraper": "^1.0.2",
     "canvacord": "^5.0.8",
